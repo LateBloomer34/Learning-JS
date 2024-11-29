@@ -27,3 +27,25 @@ console.log(arr4);
 let arr5 = [...arr1 , "1","2","3"]
 console.log(arr5 );
 
+
+
+//create a copy of an array and change element in capital letters.
+
+
+let ar1 = ["apple", "ball", "cat", "dog", "egg", "fox"];
+
+
+
+let ar2 = [];
+
+for (let i = 0 ; i < ar1.length; i++){
+    ar2.push(ar1[i].toUpperCase())
+}
+
+for (let i = 0 ; i < ar2.length ; i ++){
+    console.log(ar2[i]);
+    
+}
+
+
+
