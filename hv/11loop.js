@@ -13,7 +13,6 @@ let start = 1;
 let limit = 5;
 
 
-
 // using for 
 for (let i = start ; i <= limit; i++){
     console.log(i);
