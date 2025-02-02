@@ -17,7 +17,7 @@ console.log(a1<a2);
 
 //in case of sting it checks the first letter , is all letters are same it will return true , otherwise follows the deictionary order
 
- 
+
 
 /*equality check
 1- loose equality  (abstract equalty) ==
