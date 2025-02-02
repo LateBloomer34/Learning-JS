@@ -3,6 +3,5 @@
 
 let age = 12;
 
-
 let drink = age>=18 ?"milk":"liquor";
 console.log(drink);
