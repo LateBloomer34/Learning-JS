@@ -14,7 +14,6 @@ for (let key in obj){
 
 // using for of loop
 
-
 for (let key of Object.keys(obj)){
     console.log(key , ": ",  obj[key]);
     
