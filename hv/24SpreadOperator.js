@@ -21,7 +21,6 @@ neArr = [..."abkdsjhk"]
 console.log(neArr);
 
 
-
 //  spread operator in objects
 // same methos as array 
 
