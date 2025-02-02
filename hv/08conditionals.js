@@ -16,7 +16,6 @@ otherwise else block run*/
 
 // programe to find even and odd number 
 
-
 let num = 0;
 
 if (num%2==0){
