@@ -12,7 +12,6 @@ for(let i = 0 ; i < a.length ;i++){
 }
 
 
-
 // to print only numbers from an array 
 
 
