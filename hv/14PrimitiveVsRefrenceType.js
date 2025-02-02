@@ -14,7 +14,6 @@ arr1[0] = "it0"
 console.log(arr1);
 console.log(arr2);
 
-
 // here also change in arr2 in case of non primitive or reference type
 
 
