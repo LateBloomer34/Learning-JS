@@ -9,7 +9,6 @@ we can modify the value inside the object
 keys known as properties.
 */
 
-
 const obj = {
     firstN : "him",
     secondN : "raj"
