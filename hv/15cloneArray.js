@@ -17,7 +17,6 @@ console.log(arr3);
 console.log(arr1===arr3);
 
 
-
 // task - create an array with array1 element and some extra element
 
 let arr4 = [9 , 8 , 7 , 6]
