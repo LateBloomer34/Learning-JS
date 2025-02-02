@@ -79,7 +79,6 @@ console.log(typeof (num1)); //
 let number = 989;
 console.log(typeof String(num));
  
-
 const cityCode = 262523;
 console.log(cityCode);
 console.log(typeof String(cityCode));
