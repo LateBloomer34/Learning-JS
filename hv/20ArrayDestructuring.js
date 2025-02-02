@@ -8,7 +8,6 @@ console.log(y);
 console.log(arr);
 console.log(z[1]);
 
-
 let [a,,b] =arr;
 console.log(a);
 console.log(b);
