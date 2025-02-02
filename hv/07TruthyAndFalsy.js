@@ -13,7 +13,6 @@ falsy value -
 
  if we try to convert these falsy value in boolen it will returns false in console.
 
-
 truthy values - 
         []- empty Array
         {} - empty Object
