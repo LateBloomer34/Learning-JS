@@ -16,7 +16,6 @@ console.log(n1 +n2);
 console.log(+n1 + +n2 ); //changed string to number 
 
 
-
 // string template - use of backtick `` to conacate the string , here we use the dollar symbol followed by placeholder{}
 
 let details = `i am from ${str1} , ${str2}`
