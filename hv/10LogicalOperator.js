@@ -9,7 +9,6 @@ checks first ip, if falsy return false or falsy value; otheriwse checks for seco
 
 
 
-
 let a = 13
 let b = 12;
 
