@@ -8,7 +8,6 @@ console.log(name.trim().length)
 console.log(name.trim())
 console.log(name.length);
 
-
 /*method 2 - .toUpperCase();
 this method is use to change the string in uppercase or in caital Letters */
 
