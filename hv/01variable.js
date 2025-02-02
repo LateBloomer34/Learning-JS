@@ -11,7 +11,6 @@ var is the keyword to create variable
 value is the variable name;
 50 is the value which stores in variable.*/
 
-
 /* we can create variable using let var and const keyword. 
 varible created using const keyword is not modified/update after cretaion.*/
 
