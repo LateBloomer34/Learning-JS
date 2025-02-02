@@ -9,4 +9,4 @@ console.log(arr1);
 // this is all beacaure of , array stores in heap memory. 
 // and varibale are primitve , array and objects are non primitive.
 
-// always try to create an array using const keyword. 
+// always try to create an array using const keyword.
